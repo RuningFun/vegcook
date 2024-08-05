@@ -9,7 +9,7 @@
 | Minimalist Baker | https://minimalistbaker.com | Simple recipes | General vegetarian/vegan |
 | The PPK (Post Punk Kitchen) | https://www.theppk.com/recipes/ | Vegan, healthy, veggie-focused recipes | General vegan |
 | Vegan Richa | https://www.veganricha.com | Reliable recipes, good Indian dishes | Indian and general vegan |
-| Smitten Kitchen | smittenkitchen.com | Has a great vegetarian section | General with vegetarian section |
+| Smitten Kitchen | https://smittenkitchen.com | Has a great vegetarian section | General with vegetarian section |
 | Fat Free Vegan | https://blog.fatfreevegan.com | Wholesome, whole food, pantry staple recipes | General vegan |
 | Forks Over Knives | https://www.forksoverknives.com/recipes/ | Health-focused recipes | Health-focused vegetarian/vegan |
 | Connoisseurus Veg | https://www.connoisseurusveg.com | Excellent, yummy recipes (some indulgent) | General vegan |
